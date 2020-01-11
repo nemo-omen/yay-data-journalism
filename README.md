@@ -3,7 +3,7 @@
 
 ## Investigative Reporters and Editors
 
-[ire-apps](https://github.com/ireapps) -- a little trove of repositories by Investigative Reporters and Editors
+[ire-apps](https://github.com/ireapps) -- a little trove of repositories by Investigative Reporters and Editors/National Institute for Computer-Assisted Reporting
 
 ## Tutorials
 
