@@ -36,3 +36,9 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [politico-style](https://github.com/The-Politico/politico-style)
 
+## API References
+
+[Socrata Apiary](https://socratadiscovery.docs.apiary.io/#) -- Socrata is used by many state governments for their public data APIs
+
+
+
