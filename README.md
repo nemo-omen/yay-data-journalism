@@ -101,6 +101,10 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [9 Must-Read Books](https://infogram.com/blog/9-must-read-books-for-beginners-in-data-journalism/)
 
+[Resources for Learning and Doing Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-resources/)
+
+[Journalist's Resources -- tag data journalism](https://journalistsresource.org/tag/data-journalism/)
+
 
 
 
