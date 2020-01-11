@@ -1,9 +1,9 @@
 # yay-data-journalism
 
 ## Personal list of great data-journalism and dataviz resources, tutorials, frameworks etc.
--[Data Journalism](#data-journalism)
+- [Data Journalism](#data-journalism)
 
- -[Data Journalism Websites](#data-journalism-websites)
+ - [Data Journalism Websites](#data-journalism-websites)
 
 
 # Data Journalism
