@@ -1,6 +1,10 @@
 # yay-data-journalism
 ##Personal list of great data-journalism and dataviz resources, tutorials, frameworks etc.
 
+## Investigative Reporters and Editors
+
+[ire-apps](https://github.com/ireapps) -- a little trove of repositories by Investigative Reporters and Editors
+
 ## Tutorials
 
 ### Ben Welsh Tutorials
