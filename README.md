@@ -40,5 +40,9 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [Socrata Apiary](https://socratadiscovery.docs.apiary.io/#) -- Socrata is used by many state governments for their public data APIs
 
+## News Organization Github Accounts
+
+[Texas Tribune](https://github.com/texastribune)
+
 
 
