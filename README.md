@@ -24,8 +24,19 @@ A wealth of free knowledge on this site including:
  
    * [Python for Journalists](https://datajournalism.com/watch/python-for-journalists)
    
-### [Investigative Reporters and Editors](https://www.ire.org/)
- 
+## Journalist's Organizations
+
+[Investigative Reporters and Editors](https://www.ire.org/)
+
+[International Consortium of Investigative Journalists](https://www.icij.org/)
+
+[International Journalist's Network](https://ijnet.org/en)
+
+[Hacks/Hackers](https://hackshackers.com/)
+
+[Investigative Dashboard](https://investigativedashboard.org)
+
+
 
 ## Data Journalism Github Accounts
 
@@ -68,6 +79,31 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 ## News Organization Github Accounts
 
 [Texas Tribune](https://github.com/texastribune)
+
+[Politico](https://github.com/The-Politico)
+
+[Chicago Tribune News Apps](https://github.com/newsapps)
+
+[The Guardian](https://github.com/guardian)
+
+
+## Resources --todo - organize
+
+[Best Practices for Data Journalism](https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf)
+
+[List of Data Journalism Resources](https://gijn.org/data-journalism/)
+
+[Getting Started with Data Journalism (video)](https://www.youtube.com/watch?v=DYzDnufwHNE)
+
+[Quick Guide to Data Journalism](https://www.datacamp.com/community/blog/data-journalism-guide-tools)
+
+[Data Journalism Tools](https://ksj.mit.edu/data-journalism-tools/)
+
+[9 Must-Read Books](https://infogram.com/blog/9-must-read-books-for-beginners-in-data-journalism/)
+
+
+
+
 
 
 ## Data Viz Groups and Organizations
