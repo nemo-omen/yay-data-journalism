@@ -1,9 +1,7 @@
 # yay-data-journalism
-My own list of great data-journalism and dataviz resources, tutorials, frameworks etc.
-
+##Personal list of great data-journalism and dataviz resources, tutorials, frameworks etc.
 
 ## Tutorials
-
 
 ### Ben Welsh Tutorials
 
@@ -18,3 +16,13 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [First Graphics App](https://www.firstgraphics.app) -- simple graphics app made with Bootstrap, Nunjucks, D3, and Leaflet
 
 [First Django Admin](https://first-django-admin.readthedocs.io/en/latest/) -- set up a Django admin to allow users to input data into a database. According to Ben, "You will learn just enough about the Django framework to design database tables, load in data and create an administration panel for others to improve it. You will not bother with all the other web developer crap."
+
+
+### News Organization Style Guides
+
+[LA Times HTML Cookbook](http://cookbook.latimes.com/#top)
+
+[Texas Tribune Style Guide](https://apps.texastribune.org/styles/)
+
+[politico-style](https://github.com/The-Politico/politico-style)
+
