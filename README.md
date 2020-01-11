@@ -45,4 +45,10 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [Texas Tribune](https://github.com/texastribune)
 
 
+## Data Viz Groups and Organizations
+
+[Data Visualization Society](https://www.datavisualizationsociety.com/)
+
+
+
 
