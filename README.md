@@ -1,10 +1,30 @@
 # yay-data-journalism
 
 ## Personal list of great data-journalism and dataviz resources, tutorials, frameworks etc.
+1. [Data Journalism](#data-journalism)
+..[Data Journalism Websites]
 
-## Investigative Reporters and Editors
+
+# Data Journalism {: #data-journalism}
+
+## Data Journalism Websites {: #data-journalism-websites}
+### Sites dedicated to the practice of and training in data journalism
+
+[datajournalism.com](https://datajournalism.com/) -- a wealth of free knowledge on this site including:
+ 
+...[The Data Journalism Handbook 1](https://datajournalism.com/read/handbook/one) 
+ 
+...[The Datajournalism Handbook 2](https://datajournalism.com/read/handbook/two)
+ 
+...[Python for Journalists](https://datajournalism.com/watch/python-for-journalists)
+ 
+ 
+
+## Investigative Reporters and Editors Github
 
 [ire-apps](https://github.com/ireapps) -- a little trove of repositories by Investigative Reporters and Editors/National Institute for Computer-Assisted Reporting
+
+
 
 ## Tutorials
 
