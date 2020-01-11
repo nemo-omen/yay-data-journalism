@@ -17,7 +17,7 @@
  
    [The Datajournalism Handbook 2](https://datajournalism.com/read/handbook/two)
  
-    [Python for Journalists](https://datajournalism.com/watch/python-for-journalists)
+   [Python for Journalists](https://datajournalism.com/watch/python-for-journalists)
  
  
 
