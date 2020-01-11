@@ -5,9 +5,9 @@
 ..[Data Journalism Websites]
 
 
-# Data Journalism {: #data-journalism}
+# Data Journalism
 
-## Data Journalism Websites {: #data-journalism-websites}
+## Data Journalism Websites
 ### Sites dedicated to the practice of and training in data journalism
 
 [datajournalism.com](https://datajournalism.com/) -- a wealth of free knowledge on this site including:
