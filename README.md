@@ -4,6 +4,9 @@
 * [Data Journalism](#data-journalism)
 
    * [Data Journalism Websites](#data-journalism-websites)
+   * [Data Journalism Github Accounts](#data-journalism-github-accounts)
+   * [Data Journalism Tutorials](#data-journalism-tutorials)
+    * [Ben Welsh Tutorials](#ben-welsh-tutorials)
 
 
 # Data Journalism
@@ -11,7 +14,9 @@
 ## Data Journalism Websites
 ### Sites dedicated to the practice of and training in data journalism
 
-### [datajournalism.com](https://datajournalism.com/) -- a wealth of free knowledge on this site including:
+### [datajournalism.com](https://datajournalism.com/)
+
+A wealth of free knowledge on this site including:
  
    * [The Data Journalism Handbook 1](https://datajournalism.com/read/handbook/one) 
  
@@ -26,9 +31,7 @@
 
 [ire-apps](https://github.com/ireapps) -- a little trove of repositories by Investigative Reporters and Editors/National Institute for Computer-Assisted Reporting
 
-
-
-## Tutorials
+## Data Journalism Tutorials
 
 ### Ben Welsh Tutorials
 
