@@ -11,14 +11,15 @@
 ## Data Journalism Websites
 ### Sites dedicated to the practice of and training in data journalism
 
-[datajournalism.com](https://datajournalism.com/) -- a wealth of free knowledge on this site including:
+### [datajournalism.com](https://datajournalism.com/) -- a wealth of free knowledge on this site including:
  
    * [The Data Journalism Handbook 1](https://datajournalism.com/read/handbook/one) 
  
    * [The Datajournalism Handbook 2](https://datajournalism.com/read/handbook/two)
  
    * [Python for Journalists](https://datajournalism.com/watch/python-for-journalists)
- 
+   
+### [Investigative Reporters and Editors](https://www.ire.org/)
  
 
 ## Data Journalism Github Accounts
