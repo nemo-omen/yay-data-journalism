@@ -86,6 +86,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [The Guardian](https://github.com/guardian)
 
+[nprapps/dailygraphics](https://github.com/nprapps/dailygraphics)
+
 
 ## Resources --todo - organize
 
