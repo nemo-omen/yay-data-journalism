@@ -48,6 +48,8 @@ A wealth of free knowledge on this site including:
 
 [Journalist's Toolbox - Data Journalism Tools](https://www.journaliststoolbox.org/2020/01/08/online_journalism/)
 
+[Knight Center - Data journalism tools](https://ksj.mit.edu/data-journalism-tools/) 
+
 ## Data Journalism Tutorials
 
 ### Ben Welsh Tutorials
@@ -100,9 +102,6 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [nprapps/dailygraphics](https://github.com/nprapps/dailygraphics)
 
-## Data journalism tools
-
-[Knight Center - Data journalism tools](https://ksj.mit.edu/data-journalism-tools/) 
 
 ## Data Vis Tools
 
@@ -152,3 +151,5 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 ## Data Sources
 
 [Data Hub - Linked Open Data](https://datahub.io/collections/linked-open-data)
+
+[Journalist's Toolbox - Public Records](https://www.journaliststoolbox.org/2020/01/11/public_records_1/)
