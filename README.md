@@ -58,7 +58,7 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [First Django Admin](https://first-django-admin.readthedocs.io/en/latest/) -- set up a Django admin to allow users to input data into a database. According to Ben, "You will learn just enough about the Django framework to design database tables, load in data and create an administration panel for others to improve it. You will not bother with all the other web developer crap."
 
-##Resources from the LA Times Data Desk
+## Resources from the LA Times Data Desk
 
 [datadesk](https://github.com/datadesk)
 
@@ -87,6 +87,14 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [The Guardian](https://github.com/guardian)
 
 [nprapps/dailygraphics](https://github.com/nprapps/dailygraphics)
+
+## Data Vis Tools
+
+
+[Workbench](https://app.workbenchdata.com/workflows/)
+
+  [Workbench Tips](https://github.com/CJWorkbench/cjworkbench/wiki/NICAR-2019)
+
 
 
 ## Resources --todo - organize
