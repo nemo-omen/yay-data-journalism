@@ -104,6 +104,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [Workbench](https://app.workbenchdata.com/workflows/)
 
   [Workbench Tips](https://github.com/CJWorkbench/cjworkbench/wiki/NICAR-2019)
+  
+[Data Visualization Catalog](https://datavizcatalogue.com/index.html) -- helpful place to find tools to make specific types of visualizations
 
 ## Maps
 [StoryMap](https://storymap.knightlab.com)
