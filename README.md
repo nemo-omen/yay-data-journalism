@@ -141,4 +141,6 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [ai2html](http://ai2html.org)
 
+## Data Sources
 
+[Data Hub - Linked Open Data](https://datahub.io/collections/linked-open-data)
