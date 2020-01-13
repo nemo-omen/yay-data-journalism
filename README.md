@@ -23,6 +23,8 @@ A wealth of free knowledge on this site including:
    * [The Datajournalism Handbook 2](https://datajournalism.com/read/handbook/two)
  
    * [Python for Journalists](https://datajournalism.com/watch/python-for-journalists)
+ 
+ [Storybench](https://www.storybench.org/)
    
 ## Journalist's Organizations
 
@@ -48,7 +50,19 @@ A wealth of free knowledge on this site including:
 
 [Journalist's Toolbox - Data Journalism Tools](https://www.journaliststoolbox.org/2020/01/08/online_journalism/)
 
-[Knight Center - Data journalism tools](https://ksj.mit.edu/data-journalism-tools/) 
+[Knight Center - Data journalism tools](https://ksj.mit.edu/data-journalism-tools/)
+
+[A Data Journalism Expert's Personal Toolkit](https://gijn.org/2016/04/25/a-data-journalism-experts-personal-toolkit/?utm_content=bufferc1089&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+[List of Data Journalism Resources](https://gijn.org/data-journalism/)
+
+[Data Journalism Tools](https://ksj.mit.edu/data-journalism-tools/)
+
+[9 Must-Read Books](https://infogram.com/blog/9-must-read-books-for-beginners-in-data-journalism/)
+
+[Resources for Learning and Doing Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-resources/)
+
+[Journalist's Resources -- tag data journalism](https://journalistsresource.org/tag/data-journalism/)
 
 ## Data Journalism Tutorials
 
@@ -72,9 +86,17 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [Collaborative Data Journalism Guide](https://propublica.gitbook.io/collaborative/) -- sweet stuff from Google, also, you can use [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=xitplqMNk_Hc) as a free place to run Jupyter notebooks. Double win!
 
+[Best Practices for Data Journalism](https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf)
+
+[Getting Started with Data Journalism (video)](https://www.youtube.com/watch?v=DYzDnufwHNE)
+
+[Quick Guide to Data Journalism](https://www.datacamp.com/community/blog/data-journalism-guide-tools)
+
+[How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919)
+
 ## Resources from the LA Times Data Desk
 
-[datadesk](https://github.com/datadesk)
+[LA Times - datadesk](https://github.com/datadesk)
 
 [datadesk/tutorials](https://github.com/datadesk/tutorials)
 
@@ -105,40 +127,16 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 ## Data Vis Tools
 
-
 [Workbench](https://app.workbenchdata.com/workflows/)
 
   [Workbench Tips](https://github.com/CJWorkbench/cjworkbench/wiki/NICAR-2019)
   
 [Data Visualization Catalog](https://datavizcatalogue.com/index.html) -- helpful place to find tools to make specific types of visualizations
 
+[Observable](https://observablehq.com) -- live coding notebooks. Similar to jupyter notebooks but great for JS coding (even though it says 'Observable's Not JavaScript'. Great for working in D3, among other JS libraries.
+
 ## Maps
 [StoryMap](https://storymap.knightlab.com)
-
-## Resources --todo - organize
-
-[Best Practices for Data Journalism](https://www.kbridge.org/wp-content/uploads/2018/04/Guide-3-Best-Practices-for-Data-Journalism-by-Kuang-Keng.pdf)
-
-[List of Data Journalism Resources](https://gijn.org/data-journalism/)
-
-[Getting Started with Data Journalism (video)](https://www.youtube.com/watch?v=DYzDnufwHNE)
-
-[Quick Guide to Data Journalism](https://www.datacamp.com/community/blog/data-journalism-guide-tools)
-
-[Data Journalism Tools](https://ksj.mit.edu/data-journalism-tools/)
-
-[9 Must-Read Books](https://infogram.com/blog/9-must-read-books-for-beginners-in-data-journalism/)
-
-[Resources for Learning and Doing Data Journalism](https://www.americanpressinstitute.org/publications/reports/strategy-studies/data-resources/)
-
-[Journalist's Resources -- tag data journalism](https://journalistsresource.org/tag/data-journalism/)
-
-[Storybench](https://www.storybench.org/)
-
-[How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919)
-
-
-
 
 ## Data Viz Groups and Organizations
 
