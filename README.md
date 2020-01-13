@@ -42,6 +42,12 @@ A wealth of free knowledge on this site including:
 
 [ire-apps](https://github.com/ireapps) -- a little trove of repositories by Investigative Reporters and Editors/National Institute for Computer-Assisted Reporting
 
+## Resource Lists
+
+[ijnet - data journalism resources](https://ijnet.org/en/story/top-data-journalism-resources)
+
+[Journalist's Toolbox - Data Journalism Tools](https://www.journaliststoolbox.org/2020/01/08/online_journalism/)
+
 ## Data Journalism Tutorials
 
 ### Ben Welsh Tutorials
