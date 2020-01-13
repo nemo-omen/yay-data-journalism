@@ -62,6 +62,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [Workbench: Introduction to Data Journalism](https://app.workbenchdata.com/courses/en/intro-to-data-journalism)
 
+[Collaborative Data Journalism Guide](https://propublica.gitbook.io/collaborative/) -- sweet stuff from Google, also, you can use [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=xitplqMNk_Hc) as a free place to run Jupyter notebooks. Double win!
+
 ## Resources from the LA Times Data Desk
 
 [datadesk](https://github.com/datadesk)
