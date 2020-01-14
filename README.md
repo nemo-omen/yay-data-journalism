@@ -94,6 +94,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919)
 
+[Data Journalism Notebooks](https://github.com/jadianes/data-journalism)
+
 ## Resources from the LA Times Data Desk
 
 [LA Times - datadesk](https://github.com/datadesk)
