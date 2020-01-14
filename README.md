@@ -133,7 +133,13 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
   
 [Data Visualization Catalog](https://datavizcatalogue.com/index.html) -- helpful place to find tools to make specific types of visualizations
 
+[Jupyter](https://jupyter.org/index.html)
+
 [Observable](https://observablehq.com) -- live coding notebooks. Similar to jupyter notebooks but great for JS coding (even though it says 'Observable's Not JavaScript'. Great for working in D3, among other JS libraries.
+
+## Python, Pandas, & MatPlotLib Tools
+
+[mpld3](https://mpld3.github.io/index.html) -- library for rendering matplotlib visualizations to D3
 
 
 
