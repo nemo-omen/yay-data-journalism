@@ -98,6 +98,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 ## Technology-Specific Tutorials and Guides
 
+[10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html#)
+
 [Julia Evans - Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
 
 ## Resources from the LA Times Data Desk
