@@ -96,6 +96,10 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [Data Journalism Notebooks](https://github.com/jadianes/data-journalism)
 
+## Technology-Specific Tutorials and Guides
+
+[Julia Evans - Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
+
 ## Resources from the LA Times Data Desk
 
 [LA Times - datadesk](https://github.com/datadesk)
@@ -125,6 +129,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [The Guardian](https://github.com/guardian)
 
 [nprapps/dailygraphics](https://github.com/nprapps/dailygraphics)
+
+[propublica](https://github.com/propublica)
 
 
 ## Data Vis Tools
