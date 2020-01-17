@@ -151,7 +151,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [mpld3](https://mpld3.github.io/index.html) -- library for rendering matplotlib visualizations to D3
 
-
+## Bokeh
+[Visualizing Data with Bokeh and Pandas](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
 
 ## Maps
 [StoryMap](https://storymap.knightlab.com)
