@@ -151,6 +151,12 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [mpld3](https://mpld3.github.io/index.html) -- library for rendering matplotlib visualizations to D3
 
+### Consider using bqplot with voila to output notebook plots and widgets to the browser
+
+[voila](https://github.com/voila-dashboards/voila)
+
+[bqplot](https://bqplot.readthedocs.io/en/latest/introduction.html)
+
 ## Bokeh
 [Visualizing Data with Bokeh and Pandas](https://programminghistorian.org/en/lessons/visualizing-with-bokeh)
 
@@ -170,3 +176,5 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [Data Hub - Linked Open Data](https://datahub.io/collections/linked-open-data)
 
 [Journalist's Toolbox - Public Records](https://www.journaliststoolbox.org/2020/01/11/public_records_1/)
+
+
