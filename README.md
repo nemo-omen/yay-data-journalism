@@ -98,6 +98,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 ## Technology-Specific Tutorials and Guides
 
+### Pandas
+
 [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html#)
 
 [Julia Evans - Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
@@ -107,6 +109,9 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 [LA Times - datadesk](https://github.com/datadesk)
 
 [datadesk/tutorials](https://github.com/datadesk/tutorials)
+
+### Altair
+[Consistently Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602)
 
 ### News Organization Style Guides
 
