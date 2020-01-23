@@ -134,6 +134,8 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 
 [propublica](https://github.com/propublica)
 
+[Quartz](https://github.com/Quartz)
+
 
 ## Data Vis Tools
 
