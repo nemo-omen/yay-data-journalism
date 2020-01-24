@@ -181,6 +181,8 @@ We couldn't presume to make a list like this without including resources and tut
 
 [Build a Live Graph with D3.js](https://pusher.com/tutorials/live-graph-d3)
 
+[A simple way to make D3.js charts responsive(“A simple way to make D3.js charts / SVG’s responsive” by Louise Moxy https://link.medium.com/R52bQOpLv3) 
+
 ## Data Viz Groups and Organizations
 
 [Data Visualization Society](https://www.datavisualizationsociety.com/)
