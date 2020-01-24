@@ -179,7 +179,7 @@ We couldn't presume to make a list like this without including resources and tut
 
 [D3 Discovery](https://d3-discovery.net) Finding D3 plugins with ease.
 
-
+[Build a Live Graph with D3.js](https://pusher.com/tutorials/live-graph-d3)
 
 ## Data Viz Groups and Organizations
 
