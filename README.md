@@ -170,6 +170,17 @@ This is a great set of tutorials by LA Times Data Editor, Ben Welsh
 ## Maps
 [StoryMap](https://storymap.knightlab.com)
 
+
+## D3
+
+We couldn't presume to make a list like this without including resources and tutorials about D3
+
+[Some simple tricks for creating responsive charts with D3](https://webkid.io/blog/responsive-chart-usability-d3/)
+
+[D3 Discovery](https://d3-discovery.net) Finding D3 plugins with ease.
+
+
+
 ## Data Viz Groups and Organizations
 
 [Data Visualization Society](https://www.datavisualizationsociety.com/)
