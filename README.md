@@ -183,6 +183,8 @@ We couldn't presume to make a list like this without including resources and tut
 
 [A simple way to make D3.js charts responsive(“A simple way to make D3.js charts / SVG’s responsive” by Louise Moxy https://link.medium.com/R52bQOpLv3) 
 
+
+[D3 Annotation plugin](https://d3-annotation.susielu.com/) 
 ## Data Viz Groups and Organizations
 
 [Data Visualization Society](https://www.datavisualizationsociety.com/)
